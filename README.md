@@ -1,13 +1,16 @@
 # task1
 
-npm install
+"npm install"
 
 then
 
-react-native run-android
+"react-native run-android"
 
 or
 
-cd android && gradlew assembleRelease
+"cd android && gradlew assembleRelease"
 
 
+
+
+app-release.apk --- assebled app
